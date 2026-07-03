@@ -1,0 +1,5 @@
+[19:47:57] Program started
+[19:47:57] Opening database
+[19:47:57] Database connected
+[19:47:57] Backup completed
+[19:47:57] Program finished
